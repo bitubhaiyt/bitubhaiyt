@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react or vue.js**
 
-- 👨‍💻 All of my projects are available at [https://www.ibitu.in/resume](https://www.ibitu.in/resume)
+- 👨‍💻 All of my projects are available at [https://www.ibitu.in/](https://www.ibitu.in/resume)
 
 - 💬 Ask me about **HTML, CSS Or JavaScript**
 
